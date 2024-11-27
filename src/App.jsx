@@ -40,7 +40,7 @@ function App() {
 
       <div className="flex justify-center items-center w-full mt-2 mb-8">
         <button onClick={toggleAudio} className="bg-[#00FF00] text-black px-6 py-2 rounded-full mb-4 text-xl sm:text-2xl">
-          {isPlaying ? 'Stop $Katayki' : 'Listen $Katayki'}
+          {isPlaying ? 'Stop $Katayki' : 'Listen to $Katayki'}
         </button>
       </div>
 
